@@ -23,6 +23,10 @@
       },
       "package": "io.github.sitiom.iacademyeats"
     },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./src/assets/images/icon.png"
+    },
     "experiments": {
       "tsconfigPaths": true
     },
