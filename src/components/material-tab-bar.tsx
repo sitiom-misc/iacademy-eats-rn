@@ -1,7 +1,7 @@
 import { BottomNavigation } from "react-native-paper";
 import { BottomTabBarProps } from "@react-navigation/bottom-tabs";
 import { CommonActions } from "@react-navigation/native";
-import { Href } from "expo-router/src/link/href";
+import { Href } from "expo-router/build/link/href";
 import { router } from "expo-router";
 import Icon from "@expo/vector-icons/MaterialCommunityIcons";
 

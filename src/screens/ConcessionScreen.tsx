@@ -2,7 +2,7 @@ import { useAppTheme } from "@/lib/Material3ThemeProvider";
 import { Concessionaire } from "@/types/concessionaire";
 import { useState } from "react";
 import { View, StyleSheet, Image } from "react-native";
-import { ScrollView } from "react-native-gesture-handler";
+import { ScrollView } from "react-native";
 import { AnimatedFAB } from "react-native-paper";
 import { router, usePathname } from "expo-router";
 import CardItem from "@/components/card-item";
